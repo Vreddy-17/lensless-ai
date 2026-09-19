@@ -1,0 +1,12 @@
+.venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+dataset/
+backend/uploads/
+backend/processed/
+backend/measurements/
+
+.env
+.DS_Store
